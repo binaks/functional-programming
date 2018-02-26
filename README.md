@@ -1,1 +1,1 @@
-# Functional-Programming
+# functional-programming
